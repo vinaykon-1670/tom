@@ -1,0 +1,70 @@
+body {
+    font-family: Arial;
+    background: #f0f8ff;
+}
+header {
+    background: #e6f11a;
+    color: rgb(42, 39, 39);
+    /* padding: 5px; */
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 2px; 
+    font-weight: bold;
+    /* display: flex; */
+    text-align: right;
+
+
+
+}
+
+nav a:hover {
+    color: rgb(43, 42, 42);
+}
+.hero {
+    text-align: center;
+    padding: 30px;
+}
+
+.info {
+    padding: 20px;
+}
+
+.players {
+    padding: 20px;
+    text-align: center;
+}
+
+.card {
+    background: white;
+    /* margin: 15px auto;
+    padding: 15px;
+    width: 300px; */
+    border-radius: 10px;
+    /* box-shadow: 0 0 10px gray; */
+}
+
+footer {
+    background: #a17373;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+h1{
+    text-align: left;
+    
+}
+.circket{
+    background-color: rgb(203, 16, 53);
+    color: rgb(52, 49, 49);
+   
+}
+.footer{
+    background-color: indianred;
+}
+ 
+image{
+  width: 500px;
+}
